@@ -1,0 +1,9 @@
+michael:admin
+alex:user 
+ivan:user 
+michael:admin 
+petr:user
+ural:top
+ivan:user
+petr:user
+kirill:kirill
